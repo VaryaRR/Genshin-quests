@@ -1,0 +1,40 @@
+.background-div-header{
+    background-image: url(head_background2.jpeg);
+    height: 150px;
+    margin: 0 auto;
+    weight: 100vw;
+    position: relative;
+    bottom: 20px;
+}
+.red{
+    color: #B22222;
+}
+.white{
+    color: white;
+}
+.red-hr{
+    border-top: 1px solid #B22222;
+}
+.litle-img{
+    weight: 500px;
+    height: 300px;
+}
+.margin_left{
+    display: block;
+    margin-left: 50px;
+}
+body{
+    background-color: #D3D3D3;
+}
+button{
+    background-color: #696969;
+}
+button:hover{
+    background-color: #808080;
+    box-shadow: 5px 5px 5px #000000;
+}
+.background-div-footer{
+    background-color: black;
+    height: 50px;
+    weight: 100%
+}
